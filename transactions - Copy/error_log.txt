@@ -1,0 +1,4 @@
+[15-Apr-2025 09:43:47 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method PDOStatement::bind_param() in C:\xampp\htdocs\stellarPesa\transactions\save_transaction.php:31
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\stellarPesa\transactions\save_transaction.php on line 31
